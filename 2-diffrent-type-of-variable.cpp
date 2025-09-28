@@ -12,7 +12,7 @@ int main() {
     cout << "the value of d is " << d << endl;
     bool e = true;
     cout << "the value of e is " << e << endl;
-    string f = "hello world ";
+    string f = "manish ";
     cout << "the value of f is " << f << endl;
     
 }
